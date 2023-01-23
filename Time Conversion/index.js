@@ -10,4 +10,4 @@ function timeConversion(s) {
     if(hrs < 10) hrs = "0"+hrs;
      return hrs+":"+mint+":"+sec;
    }
-   
+
